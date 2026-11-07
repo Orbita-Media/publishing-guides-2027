@@ -106,12 +106,39 @@ def fmt_date(iso: str, lang: str) -> str:
     return f"{d.day}. {month} {d.year}" if lang == "de" else f"{d.day} {month} {d.year}"
 
 
+STATIC_WEIGHTS = (400, 600, 700, 800)
+
+
+def static_instance(file: str, weight: int) -> str:
+    """A static instance of a variable font at one weight.
+
+    Chromium embeds variable fonts as Type 3 in a PDF, which makes the slide
+    text unsearchable for Google and for slide platforms; static instances are
+    embedded as real fonts with a text layer.
+    """
+    out_dir = DOCS / "assets" / "fonts" / "static"
+    name = f"{Path(file).stem}-w{weight}.woff2"
+    target = out_dir / name
+    if not target.exists():
+        from fontTools.ttLib import TTFont
+        from fontTools.varLib import instancer
+        out_dir.mkdir(parents=True, exist_ok=True)
+        font = TTFont(DOCS / "assets" / "fonts" / file)
+        static = instancer.instantiateVariableFont(font, {"wght": weight}, updateFontNames=False)
+        static.flavor = "woff2"
+        static.save(target)
+    return f"static/{name}"
+
+
 def font_css(theme: dict, prefix: str) -> str:
     rules = []
     for family, file, weight, rng in theme["fonts"]:
         r = f"unicode-range:{rng};" if rng else ""
-        rules.append(f"@font-face{{font-family:'{family}';src:url({prefix}assets/fonts/{file}) format('woff2');"
-                     f"font-weight:{weight};font-style:normal;font-display:swap;{r}}}")
+        lo, hi = (int(x) for x in weight.split())
+        for w in STATIC_WEIGHTS:
+            if lo <= w <= hi:
+                rules.append(f"@font-face{{font-family:'{family}';src:url({prefix}assets/fonts/{static_instance(file, w)}) "
+                             f"format('woff2');font-weight:{w};font-style:normal;font-display:swap;{r}}}")
     return "\n".join(rules)
 
 
