@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orbita-media.github.io/publishing-guides-2027/sitemap.xml

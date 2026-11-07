@@ -1,0 +1,239 @@
+{
+  "slug": "how-to-get-your-book-into-bookstores-2027",
+  "lang": "en",
+  "brand": "shelf",
+  "alternate": "buch-in-den-buchhandel-bringen-2027",
+  "title": "How to get your book into bookstores in 2027",
+  "short_title": "How to get your book into bookstores 2027",
+  "seo_title": "How to Get Your Book Into Bookstores in 2027 (19-Slide Guide)",
+  "description": "Bookstores order from wholesale catalogs, not from authors. How to make your book orderable in 2027, then worth stocking: ISBN, metadata, terms, pitch.",
+  "keyword": "how to get your book into bookstores 2027",
+  "published": "2026-11-07",
+  "updated": "2026-11-07",
+  "about": "[Shelf Publisher](https://shelfpublisher.com/?utm_source=github&utm_medium=deck&utm_campaign=bookstores-2027) publishes your paperback under the imprint of Orbita Media, a publishing house in Hamburg with more than 1,000 titles and 2 million books sold, and lists it in the wholesale catalogs that more than 50,000 bookstores in 18 countries order from. Invitation only: our publishing team reviews every request personally.",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Guide for authors · 2027",
+      "title": "How to get your book into bookstores in 2027",
+      "answer": "Bookstores order from wholesale catalogs, not from authors. Make your book **orderable** first: an ISBN under a publisher name, clean metadata and a listing with the wholesalers stores already use. Then make it **worth stocking**: terms the trade accepts and a reason for a store to believe its customers will buy it."
+    },
+    {
+      "type": "points",
+      "kicker": "Start here",
+      "title": "How bookstores actually buy books",
+      "lead": "Bookstores order most of their books from wholesalers. One account covers thousands of publishers, with one invoice and fast delivery.",
+      "items": [
+        {"h": "Catalogs, not inboxes", "t": "Booksellers search wholesale catalogs that list millions of titles. They do not browse author websites or answer cold emails."},
+        {"h": "Terms the whole trade uses", "t": "A store buys below the list price, expects a trade discount and often the option to return unsold copies."},
+        {"h": "Same route for every book", "t": "A self-published book reaches a bookstore the same way as any other: listed where booksellers order, on terms they accept."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Three markets, as of October 2026",
+      "title": "Where bookstores order in the US, the UK and Germany",
+      "items": [
+        {"h": "United States", "t": "Stores and libraries order through the catalogs of the major book wholesalers. Baker & Taylor announced in October 2025 that it would cease operations."},
+        {"h": "United Kingdom", "t": "Wholesalers such as Gardners, which keeps about 500,000 titles in stock for same-day dispatch. Publishers register with Nielsen BookData."},
+        {"h": "Germany", "t": "Barsortimente – Libri, Zeitfracht and Umbreit – deliver overnight. Titles are looked up in the VLB, the directory of available books."}
+      ]
+    },
+    {
+      "type": "checklist",
+      "kicker": "Before anyone can order",
+      "title": "Five things a bookstore needs from your book",
+      "lead": "Without the first three, the book cannot be ordered at all. Without the last two, it can be ordered but is unlikely to be stocked.",
+      "items": [
+        "**An ISBN and a publisher name** – it identifies the edition and puts it into Books in Print",
+        "**Complete metadata** – title, author, format, price, date, subject categories",
+        "**Wholesale availability** – through the wholesaler the store already buys from",
+        "**A trade discount** – the store lives on the difference to the list price",
+        "**Returnability** – many booksellers only buy books they can send back"
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "The key distinction",
+      "title": "Orderable is not the same as stocked",
+      "text": "Print on demand makes a book orderable wherever the wholesaler reaches. A store only puts copies on its shelf if it expects them to sell.",
+      "source": "Every copy on a shelf is money the store has already spent."
+    },
+    {
+      "type": "points",
+      "kicker": "Why it rarely happens",
+      "title": "Why most self-published books never reach the shelf",
+      "items": [
+        {"h": "No sales machinery", "t": "Traditional publishers bring sales reps, seasonal catalogs, advance copies and budgets. A self-published title usually arrives with none of these."},
+        {"h": "Terms that shift the risk", "t": "A book that is non-returnable or carries a short discount can be orderable, but the store takes all the risk on every copy."},
+        {"h": "No known publisher", "t": "A publisher the store knows, listed with its usual wholesaler, makes the yes much easier."},
+        {"h": "Special orders still count", "t": "A customer asks, the store orders one copy, the customer picks it up: a real sale through a real bookstore."}
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "Part 1",
+      "title": "Make your book orderable",
+      "lead": "These three steps decide whether a bookseller can order your book at all.",
+      "items": [
+        {"h": "Get an ISBN under a publisher name", "t": "The ISBN and the imprint travel with every record a bookseller sees. See [what a publishing imprint is](https://shelfpublisher.com/blog/what-is-a-publishing-imprint?utm_source=github&utm_medium=deck&utm_campaign=bookstores-2027)."},
+        {"h": "File complete metadata", "t": "Title, author, format, price, publication date and subject categories, in the directories of every market you sell in."},
+        {"h": "Get listed with the wholesalers", "t": "Stores order on the account they already have. If your book is not in that catalog, the usual way to order it does not exist."}
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "Part 2",
+      "title": "Make your book worth stocking",
+      "lead": "Being listed opens the door. These steps give a bookseller a reason to walk through it.",
+      "start": 4,
+      "items": [
+        {"h": "Offer terms the trade accepts", "t": "A real trade discount and returnable status are the first things a buyer asks about."},
+        {"h": "Give one store a local reason", "t": "A local subject, a reading, a signing or a talk turns a maybe into a few copies on display."},
+        {"h": "Send readers to ask for it", "t": "Every reader who asks for your book in a store brings it closer to the shelf."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "The most asked-for chain",
+      "title": "How to get your book into Barnes & Noble",
+      "lead": "What B&N's own help pages say, as of October 2026.",
+      "items": [
+        {"h": "Listing comes from data", "t": "B&N lists titles from bibliographic data the publisher supplies: ISBN, title, author, publisher, format, price, date, BISAC and discount."},
+        {"h": "Send it early", "t": "The record goes to B&N ideally at least 180 days before publication."},
+        {"h": "No paid placement", "t": "B&N states it will never offer in-store placement for your books in exchange for money."},
+        {"h": "The route in", "t": "Wholesale distribution under a publisher, listed in the catalogs B&N stores already order from."}
+      ]
+    },
+    {
+      "type": "checklist",
+      "kicker": "Independent bookstores",
+      "title": "Consignment: what to get in writing first",
+      "lead": "The store takes a few copies without paying upfront and pays you for the ones that sell. Terms differ from store to store.",
+      "items": [
+        "The split between you and the store",
+        "Any intake or handling fee",
+        "How long the books stay on display",
+        "How and when you are paid",
+        "What happens to damaged or unsold copies",
+        "Works best with a local subject, an event or a reading group"
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "In person",
+      "title": "How to pitch your book to a local bookstore",
+      "items": [
+        {"h": "Go at a quiet time", "t": "Ask who handles ordering. Bring a copy of the book."},
+        {"h": "Bring a one-page sheet", "t": "ISBN, price, format, publisher, a short description and how the store can order it."},
+        {"h": "Be a customer first", "t": "Booksellers notice who supports their store."},
+        {"h": "Know your terms", "t": "Discount, returnability and wholesaler are the first questions a buyer asks."},
+        {"h": "Offer something", "t": "A reading, a signing or a talk gives the store a reason to stock and promote copies."},
+        {"h": "Accept a no", "t": "Shelf space is limited, and a store's decision about its own shelves is final."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Why bookstores are different",
+      "title": "Catalogs, not star ratings",
+      "items": [
+        {"h": "On Amazon", "t": "A self-published book is found through its sales, and its reviews decide whether readers buy. With few reviews, one one-star rating pulls the average down."},
+        {"h": "In the book trade", "t": "A bookseller looks at the publisher, the ISBN, the price and the terms. No reviews or ad budget are needed for a store to order your book."}
+      ]
+    },
+    {
+      "type": "stats",
+      "kicker": "With Shelf Publisher",
+      "title": "Where a Shelf Publisher paperback can be ordered",
+      "items": [
+        {"value": "50,000+", "label": "bookstores order from the catalogs your book is listed in"},
+        {"value": "18", "label": "countries, through print on demand"},
+        {"value": "8–9 days", "label": "until a book usually shows up in stores and online"}
+      ],
+      "note": "Retailers that order from these catalogs include Barnes & Noble, Bookshop.org, Walmart, Foyles, Blackwell's, Thalia, Hugendubel, Orell Füssli, laFeltrinelli, Booktopia and Amazon (each checked by ISBN search, October 2026). They are retailers, not partners."
+    },
+    {
+      "type": "stats",
+      "kicker": "Bookstores per market",
+      "title": "Orderable wherever readers ask for it",
+      "items": [
+        {"value": "27,000+", "label": "bookstores in the United States"},
+        {"value": "9,500+", "label": "bookstores in the United Kingdom"},
+        {"value": "6,800+", "label": "bookstores in Germany"},
+        {"value": "4,200+", "label": "bookstores in France"}
+      ],
+      "note": "Plus Spain (3,100+), Italy (3,000+), Canada (1,400+) and 12 more countries. Source: [shelfpublisher.com/get-your-book-into-bookstores](https://shelfpublisher.com/get-your-book-into-bookstores?utm_source=github&utm_medium=deck&utm_campaign=bookstores-2027)."
+    },
+    {
+      "type": "split",
+      "kicker": "Two routes",
+      "title": "Selling only to readers, or letting the trade reorder",
+      "left": {"h": "Self-publishing alone", "items": [
+        "Sells almost only to readers on Amazon",
+        "Bookstores and wholesalers rarely order it",
+        "Without ads, sales usually stall"
+      ]},
+      "right": {"h": "With Shelf Publisher", "items": [
+        "Published under the Orbita Media imprint, with an ISBN",
+        "Listed in the catalogs bookstores order from",
+        "Stores order, readers buy, stores reorder",
+        "Print on demand: no warehouse, no stock risk"
+      ]}
+    },
+    {
+      "type": "checklist",
+      "kicker": "Included per book",
+      "title": "What Shelf Publisher does for each paperback",
+      "items": [
+        "An ISBN, so you do not buy one",
+        "Your metadata filed with the directories of your markets",
+        "Publication under Orbita Media as publisher",
+        "Setup with the distribution channels",
+        "Print on demand, ordered and monitored for you",
+        "Revenue collected, quarterly statements and payouts",
+        "Your copyright stays yours",
+        "All rights come back to you when the contract ends"
+      ]
+    },
+    {
+      "type": "faq",
+      "kicker": "Questions",
+      "title": "Getting into bookstores, answered",
+      "items": [
+        {"q": "Do bookstores buy books directly from authors?", "a": "Usually not. Most stores order through wholesalers so they can buy many publishers' books on one account. Some independent stores take local authors' books on consignment."},
+        {"q": "Can a print-on-demand book be sold in bookstores?", "a": "Yes. Listed with a wholesaler, it can be ordered by any store that uses that wholesaler. Whether a store keeps copies on the shelf depends on the terms and expected demand."},
+        {"q": "Will bookstores put my book on their shelves?", "a": "Every store that orders from these catalogs can order it, for a customer or for its own shelf. What a store keeps on the shelf is the bookseller's choice."},
+        {"q": "How long until my book appears in stores?", "a": "With Shelf Publisher, usually about 8 to 9 days after you submit it, in most cases within two weeks; some retailers take longer."}
+      ]
+    },
+    {
+      "type": "cta",
+      "kicker": "Next step",
+      "title": "Put your paperback where booksellers order every day",
+      "lead": "Shelf Publisher is invitation only. Our publishing team reviews every request personally.",
+      "button": {"label": "Request access to Shelf Publisher", "url": "https://shelfpublisher.com/request-access?utm_source=github&utm_medium=deck&utm_campaign=bookstores-2027"},
+      "links": [
+        {"label": "Get your book into bookstores", "url": "https://shelfpublisher.com/get-your-book-into-bookstores?utm_source=github&utm_medium=deck&utm_campaign=bookstores-2027"},
+        {"label": "Full guide: how to get your book into bookstores", "url": "https://shelfpublisher.com/blog/how-to-get-your-book-into-bookstores?utm_source=github&utm_medium=deck&utm_campaign=bookstores-2027"},
+        {"label": "How it works", "url": "https://shelfpublisher.com/how-it-works?utm_source=github&utm_medium=deck&utm_campaign=bookstores-2027"},
+        {"label": "Free book spine width calculator", "url": "https://orbita-media.github.io/book-spine-calculator/"}
+      ]
+    },
+    {
+      "type": "sources",
+      "title": "Sources",
+      "items": [
+        {"label": "Shelf Publisher: Get your book into bookstores", "url": "https://shelfpublisher.com/get-your-book-into-bookstores"},
+        {"label": "Shelf Publisher: How to get your book into bookstores (guide)", "url": "https://shelfpublisher.com/blog/how-to-get-your-book-into-bookstores"},
+        {"label": "American Libraries: Baker & Taylor to Cease Operations (8 Oct 2025)", "url": "https://americanlibrariesmagazine.org/2025/10/08/baker-taylor-to-cease-operations/"},
+        {"label": "Gardners: Selling to Us", "url": "https://www.gardners.com/Selling-To-Us"},
+        {"label": "Wikipedia (German): Barsortiment", "url": "https://de.wikipedia.org/wiki/Barsortiment"},
+        {"label": "VLB: Verzeichnis Lieferbarer Bücher", "url": "https://vlb.de/"},
+        {"label": "Bowker / MyIdentifiers: Buy ISBNs", "url": "https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn"},
+        {"label": "Barnes & Noble Help: Publisher/Author Guidelines", "url": "https://help.barnesandnoble.com/hc/en-us/articles/5353814555035-Publisher-Author-Guidelines"},
+        {"label": "Barnes & Noble Help: New Release Section Placement", "url": "https://help.barnesandnoble.com/hc/en-us/articles/5353238868635-New-Release-Section-Placement-for-Authors-and-Publishers"},
+        {"label": "Amazon: Community Guidelines", "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85MENUE4XF"}
+      ]
+    }
+  ]
+}

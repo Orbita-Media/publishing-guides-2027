@@ -1,0 +1,228 @@
+{
+  "slug": "how-to-stop-ebook-piracy-on-shopify-2027",
+  "lang": "en",
+  "brand": "pageseal",
+  "alternate": "ebook-raubkopien-verhindern-shopify-2027",
+  "title": "How to stop eBook piracy on Shopify in 2027",
+  "short_title": "Stop eBook piracy on Shopify 2027",
+  "seo_title": "How to Stop eBook Piracy on Shopify in 2027 (18-Slide Guide)",
+  "description": "No file is piracy-proof. On Shopify, a personal copy with the buyer's name and a hidden identifier makes sharing less likely and traces a leak to its order.",
+  "keyword": "how to stop ebook piracy on shopify 2027",
+  "published": "2026-11-07",
+  "updated": "2026-11-07",
+  "about": "[Pageseal](https://pageseal.app/?utm_source=github&utm_medium=deck&utm_campaign=how-to-stop-ebook-piracy-on-shopify-2027) is the Shopify app for eBooks by Orbita Media GmbH in Hamburg: every buyer gets a personal copy of your EPUB, PDF or audiobook with their name, order number and a hidden identifier, and your EPUB is checked on real e-readers before the first sale. Pageseal is in final testing for the Shopify App Store.",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Guide for eBook sellers · 2027",
+      "title": "How to stop eBook piracy on Shopify in 2027",
+      "answer": "No protection stops a determined person. What works on Shopify is a **personal copy for every buyer**: their name and order number inside the file, plus a hidden identifier. Few buyers share a file with their own name in it, and if a copy turns up online, it **leads back to the order** so you can block it."
+    },
+    {
+      "type": "points",
+      "kicker": "Why it happens",
+      "title": "Why eBooks sold on Shopify get shared",
+      "lead": "Shopify sells the product. What happens to the file afterwards depends on the app that delivers it.",
+      "items": [
+        {"h": "One file for everyone", "t": "A normal download is the same file for every buyer. Once it is passed on, nobody knows where it came from."},
+        {"h": "Shared in one click", "t": "A file without a name in it costs nothing to forward, upload or post. There is no reason to think twice."},
+        {"h": "Shopify ships no file protection", "t": "Shopify does not deliver files on its own. You need an app, and free apps send the same file to everyone."}
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Be honest about it",
+      "title": "Piracy-proof files do not exist",
+      "text": "No protection stops a determined person. What social DRM changes is the motive: few buyers share a file with their own name in it.",
+      "source": "Pageseal, Social DRM explained"
+    },
+    {
+      "type": "split",
+      "kicker": "Two ways to protect an eBook",
+      "title": "Encryption DRM or social DRM?",
+      "left": {"h": "Encryption DRM (Adobe, LCP, Kindle)", "items": [
+        "Opens only in apps that support the DRM",
+        "Buyers often need an account, a reader app or an activation",
+        "Makes copying harder; tools to remove it exist",
+        "Higher support work: activation and device questions"
+      ]},
+      "right": {"h": "Social DRM (watermark)", "items": [
+        "Opens in any app or e-reader for the format",
+        "Buyers need nothing extra: no login, no special app",
+        "Does not lock the file; makes sharing traceable",
+        "Low support work, common for direct sales"
+      ]}
+    },
+    {
+      "type": "points",
+      "kicker": "How a personal copy works",
+      "title": "Sealed twice: a visible note and a hidden identifier",
+      "lead": "When someone buys, a new copy of the file is made for that order. Pageseal does this for eBooks, PDFs and audiobooks.",
+      "items": [
+        {"h": "Layer 1 · visible", "t": "A note page with the buyer's name and order number, for example “This copy was made for Alex Sample, Order #1001”. Everyone who opens the file sees whose copy it is."},
+        {"h": "Layer 2 · invisible", "t": "A hidden identifier that stays in the file, even if someone deletes the note page. The copy stays traceable."},
+        {"h": "Every format you sell", "t": "EPUB (reflowable and fixed layout), PDF and audiobooks as MP3, M4B, M4A or a ZIP of MP3s. One sale covers all formats of a book."}
+      ]
+    },
+    {
+      "type": "checklist",
+      "kicker": "Before you choose an app",
+      "title": "What a good eBook watermark should do",
+      "lead": "Protection that annoys honest readers or breaks the book costs you more than it saves.",
+      "items": [
+        "Keep the book **intact on every reader**, including fixed-layout picture books",
+        "Show the buyer's name **calmly and respectfully**, no shouting banners",
+        "Carry a **hidden identifier** that survives if the note page is deleted",
+        "Let you **look up a found file yourself**, without emailing a support team",
+        "Work for **every format you sell**: EPUB, PDF and audiobooks"
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "Set up once",
+      "title": "Protect your eBooks on Shopify in six steps",
+      "lead": "After this, every sale is sealed and delivered by itself.",
+      "items": [
+        {"h": "Install a protection app", "t": "Install Pageseal in your Shopify store, on any Shopify plan, and open it from Apps."},
+        {"h": "Upload your book", "t": "Drop in your EPUB, PDF or audiobook. One book can hold all three formats."},
+        {"h": "Read the check report", "t": "Green means clean, yellow looks worse on a device, red means buyers would get a broken book."},
+        {"h": "Create the product", "t": "Title, cover, price, and untick “This is a physical product”, so checkout asks for no address."},
+        {"h": "Assign the book", "t": "Pick the Shopify product or variant that sells this book. Every sale now gets a personal copy."},
+        {"h": "Go live and test", "t": "Switch the book live and place a Shopify test order; test orders are free."}
+      ]
+    },
+    {
+      "type": "checklist",
+      "kicker": "Delivery settings",
+      "title": "Delivery settings that close the easy leaks",
+      "lead": "Protection inside the file works best with a delivery that buyers do not need to work around.",
+      "items": [
+        "**Download limit** per buyer, for example five or ten",
+        "**Link expiry**: choose how long the link is valid",
+        "**Blocked after a refund**: the link stops working",
+        "**Download button** on the thank-you and order status page",
+        "**Delivery email** in your shop's name, logo and colours",
+        "**No account for buyers**: no login, no extra app",
+        "**Release day** for pre-orders: no download before it (from Starter)"
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Protection must not break the book",
+      "title": "Check every device before the first sale",
+      "lead": "An EPUB that looks fine on your computer can break on a Kindle or a phone. Broken books annoy exactly the buyers who paid.",
+      "items": [
+        {"h": "Standard validators", "t": "Pageseal checks every EPUB with EPUBCheck, the standard validator, and DAISY Ace, which checks accessibility."},
+        {"h": "Real page pictures", "t": "You see your pages as Apple Books (iPhone and iPad), an Android reader, Readium and Kindle via Send to Kindle show them."},
+        {"h": "Fixes in plain words", "t": "Instead of error codes, each finding says what to change in your export, before buyers see it."}
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "When a copy turns up online",
+      "title": "Found your eBook on a file-sharing site? Do this",
+      "lead": "A personal copy turns an anonymous leak into an order you can act on.",
+      "items": [
+        {"h": "Download the file", "t": "Save the shared copy exactly as you found it."},
+        {"h": "Upload it in Leak search", "t": "Pageseal reads the hidden identifier and names the order, even if the note page was deleted."},
+        {"h": "Block that copy", "t": "The leak search result has a Block copy button. One click, and that copy is blocked."},
+        {"h": "Ask for a takedown", "t": "From Starter you see the buyer's name and get drafts for a takedown notice and a letter to the buyer. You decide whether to send them."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Common mistakes",
+      "title": "Four mistakes that make eBook piracy easy",
+      "items": [
+        {"h": "Same file for every buyer", "t": "Without buyer details inside, a shared copy cannot be traced to anyone, so there is no reason to hold back."},
+        {"h": "Only a visible note", "t": "A note page can be deleted. Without a hidden identifier, the trace is gone with it."},
+        {"h": "Links that never close", "t": "No download limit, no expiry, no block after a refund: a forwarded link keeps working for anyone who has it."},
+        {"h": "Locking out honest readers", "t": "When buyers need an account, a reader app or an activation, support work grows."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Tell buyers, stay GDPR-clean",
+      "title": "Be open about the watermark",
+      "lead": "Personalising a copy uses the buyer's name, which is personal data. Saying so sets expectations and is part of being open about buyer data.",
+      "items": [
+        {"h": "Say it on the product page", "t": "For example: “Your copy is personalised with your name and order number.” Mention it in your privacy policy, too."},
+        {"h": "Processor with a DPA", "t": "Pageseal processes buyer data as your processor under a data processing agreement (Article 28 GDPR), in force from installation."},
+        {"h": "Stored in Germany", "t": "Databases and files on a Hetzner server in Nuremberg. Buyer data encrypted field by field, no AI, no tracking cookies."}
+      ]
+    },
+    {
+      "type": "stats",
+      "kicker": "In numbers",
+      "title": "Pageseal at a glance",
+      "items": [
+        {"value": "2", "label": "protection layers in every copy: a visible note and a hidden identifier"},
+        {"value": "3", "label": "formats in one sale: EPUB, PDF and audiobook"},
+        {"value": "5", "label": "copies free once on the Free plan, no monthly fee"},
+        {"value": "14", "label": "days free on every paid plan"}
+      ],
+      "note": "Source: pageseal.app, plans and features, as of November 2026."
+    },
+    {
+      "type": "points",
+      "kicker": "What it costs",
+      "title": "Start free, pay as you sell",
+      "lead": "Monthly plans on your Shopify invoice, in US dollars, plus VAT where applicable. One copy is one sale of a book, with all its formats.",
+      "items": [
+        {"h": "Free · $0 a month", "t": "First 5 copies free once, then $0.75 per copy. 2 titles, protection, checks and leak search."},
+        {"h": "Starter · $15 a month", "t": "40 copies included, then $0.69. 10 titles, unlimited checks, buyer contact and takedown help."},
+        {"h": "Pro · $79 a month", "t": "200 copies included, then $0.59. Unlimited titles, your own email text, no Pageseal note."},
+        {"h": "Scale · $299 a month", "t": "1,500 copies included, then $0.49. Unlimited titles, your own email text, no Pageseal note."}
+      ]
+    },
+    {
+      "type": "faq",
+      "kicker": "FAQ",
+      "title": "eBook piracy on Shopify: questions sellers ask",
+      "items": [
+        {"q": "Can I stop eBook piracy completely?", "a": "No. Nothing stops sharing completely. A personal copy with the buyer's name makes sharing less likely, and the hidden identifier lets you trace a shared file to its order."},
+        {"q": "Can a watermark be removed?", "a": "A visible note page can be deleted. That is why Pageseal also adds a hidden identifier that stays in the file, so the leak search still finds the order."},
+        {"q": "Does the buyer need an account?", "a": "No. The buyer downloads a normal file from the thank-you page or the email. No login, no extra app."},
+        {"q": "Can I sell eBooks on Shopify without an app?", "a": "Not automatically. Shopify has no built-in file delivery, so you need an app. Protection apps also personalise the file."}
+      ]
+    },
+    {
+      "type": "faq",
+      "kicker": "FAQ",
+      "title": "More questions about protected eBooks",
+      "items": [
+        {"q": "Does a watermarked eBook work on Kindle?", "a": "Yes. Kindle buyers do not need a MOBI file any more: a personalised EPUB can be sent to a Kindle with Amazon's Send to Kindle, like any EPUB."},
+        {"q": "Which apps open the personal copy?", "a": "Any app or e-reader that opens EPUB, for example Apple Books, Google Play Books, Kobo, Tolino, PocketBook and Thorium. PDFs open in any PDF reader."},
+        {"q": "Is social DRM legal in the EU?", "a": "Personalising a copy uses the buyer's name, which is personal data. Tell buyers about it and process it under a data processing agreement; Pageseal provides one."},
+        {"q": "Can I protect audiobooks the same way?", "a": "Yes. Pageseal personalises MP3, M4B and M4A files and ZIPs of MP3s and delivers them with the eBook in one order."}
+      ]
+    },
+    {
+      "type": "cta",
+      "kicker": "Next step",
+      "title": "Sell your next eBook as a personal copy",
+      "lead": "Pageseal is in final testing for the Shopify App Store. Write to us and you are among the first to install it.",
+      "button": {"label": "Get early access to Pageseal", "url": "https://pageseal.app/?utm_source=github&utm_medium=deck&utm_campaign=how-to-stop-ebook-piracy-on-shopify-2027"},
+      "links": [
+        {"label": "Social DRM and eBook watermarks explained", "url": "https://pageseal.app/social-drm?utm_source=github&utm_medium=deck&utm_campaign=how-to-stop-ebook-piracy-on-shopify-2027"},
+        {"label": "How to sell eBooks on Shopify", "url": "https://pageseal.app/sell-ebooks-on-shopify?utm_source=github&utm_medium=deck&utm_campaign=how-to-stop-ebook-piracy-on-shopify-2027"},
+        {"label": "Best Shopify eBook apps 2027", "url": "https://pageseal.app/best-shopify-ebook-apps-2027?utm_source=github&utm_medium=deck&utm_campaign=how-to-stop-ebook-piracy-on-shopify-2027"},
+        {"label": "Security and GDPR", "url": "https://pageseal.app/security?utm_source=github&utm_medium=deck&utm_campaign=how-to-stop-ebook-piracy-on-shopify-2027"}
+      ]
+    },
+    {
+      "type": "sources",
+      "title": "Sources",
+      "items": [
+        {"label": "Pageseal: the Shopify app for eBooks (features and plans)", "url": "https://pageseal.app/"},
+        {"label": "Pageseal: Social DRM explained", "url": "https://pageseal.app/social-drm"},
+        {"label": "Pageseal: How to sell eBooks on Shopify", "url": "https://pageseal.app/sell-ebooks-on-shopify"},
+        {"label": "Pageseal: Help (setup, leak search, plans)", "url": "https://pageseal.app/help"},
+        {"label": "Pageseal: Security and GDPR", "url": "https://pageseal.app/security"},
+        {"label": "W3C: EPUBCheck", "url": "https://www.w3.org/publishing/epubcheck/"},
+        {"label": "DAISY Consortium: Ace accessibility checker", "url": "https://daisy.github.io/ace/"},
+        {"label": "Amazon: Send to Kindle", "url": "https://www.amazon.com/sendtokindle"}
+      ]
+    }
+  ]
+}

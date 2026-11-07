@@ -1,0 +1,249 @@
+{
+  "slug": "buch-in-den-buchhandel-bringen-2027",
+  "lang": "de",
+  "brand": "shelf",
+  "alternate": "how-to-get-your-book-into-bookstores-2027",
+  "title": "Buch in den Buchhandel bringen 2027: so geht’s",
+  "short_title": "Buch in den Buchhandel bringen 2027",
+  "seo_title": "Buch in den Buchhandel bringen 2027: Anleitung in 20 Folien",
+  "description": "Buchhandlungen bestellen bei Barsortimenten wie Libri, nicht bei Autoren. So wird dein Buch 2027 bestellbar und regaltauglich: ISBN, VLB, Rabatt, Remission.",
+  "keyword": "Buch in den Buchhandel bringen 2027",
+  "published": "2026-11-07",
+  "updated": "2026-11-07",
+  "about": "[ShelfPublisher](https://shelfpublisher.com/de/?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027) veröffentlicht dein Taschenbuch im Verlag der Orbita Media GmbH in Hamburg, einem internationalen Verlag mit über 1.000 Titeln und 2 Millionen verkauften Büchern, und listet es in den Großhandelskatalogen, aus denen über 50.000 Buchhandlungen in 18 Ländern bestellen. Nur auf Einladung: Unser Verlagsteam prüft jede Anfrage persönlich.",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Ratgeber für Autorinnen und Autoren · 2027",
+      "title": "Buch in den Buchhandel bringen 2027: so geht’s",
+      "answer": "Buchhandlungen bestellen nicht bei Autoren, sondern bei Barsortimenten wie Libri, Zeitfracht und Umbreit. Mach dein Buch zuerst **bestellbar**: ISBN unter einem Verlagsnamen, vollständige Metadaten im VLB, Listung im Großhandel. Dann mach es **regaltauglich**: mit Rabatt und Remissionsrecht und einem Grund, warum die Buchhandlung an Käufer glaubt."
+    },
+    {
+      "type": "points",
+      "kicker": "Erst verstehen",
+      "title": "So kauft der Buchhandel ein: drei Stufen",
+      "lead": "Buchhändler stöbern nicht auf Autorenwebsites. Sie suchen im Katalog eines Großhändlers, sehen Titel, Verlag, Preis und Rabatt und bestellen.",
+      "items": [
+        {"h": "Verlag", "t": "Der herstellende Buchhandel: Er stellt das Buch her, vergibt die ISBN und meldet die Metadaten an die Verzeichnisse."},
+        {"h": "Zwischenbuchhandel", "t": "Barsortimente und Auslieferungen führen Kataloge und Lager und beliefern den Handel. Die meisten Bücher bestellt der Buchhandel hier statt bei jedem Verlag einzeln."},
+        {"h": "Buchhandlung", "t": "Der verbreitende Buchhandel bestellt aus den Katalogen und verkauft zum festen Ladenpreis, den der Verlag festlegt."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Der deutschsprachige Markt, Stand Oktober 2026",
+      "title": "Barsortimente, VLB und Buchpreisbindung",
+      "items": [
+        {"h": "Barsortimente", "t": "Libri, Zeitfracht (früher KNV) und Umbreit halten Bücher vieler Verlage bereit und beliefern Buchhandlungen meist innerhalb von etwa 24 Stunden über Nacht."},
+        {"h": "VLB", "t": "Im Verzeichnis Lieferbarer Bücher suchen Buchhandlungen in Deutschland, Österreich und der Schweiz nach ISBN und sehen Verlag, Preis und Bezugsquelle."},
+        {"h": "Verlagsauslieferung", "t": "Nimmt für Verlage Bestellungen an, liefert, stellt Rechnungen und wickelt Remissionen ab. Anders als ein Verlag entscheidet sie nicht, was erscheint."},
+        {"h": "Buchpreisbindung", "t": "In Deutschland und Österreich verkauft jede Buchhandlung ein neues Buch zum Preis des Verlags. In der Schweiz gibt es keine Buchpreisbindung."}
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Warum sich der Weg lohnt",
+      "title": "Der Buchhandel ist mehr als Amazon",
+      "text": "In Deutschland laufen rund drei Viertel des Buchumsatzes nicht über den Internetbuchhandel.",
+      "source": "Börsenverein des Deutschen Buchhandels, 2025, zitiert auf shelfpublisher.com/de/verlag"
+    },
+    {
+      "type": "checklist",
+      "kicker": "Bevor jemand bestellen kann",
+      "title": "Fünf Dinge, die eine Buchhandlung von deinem Buch braucht",
+      "lead": "Ohne die ersten drei ist das Buch gar nicht bestellbar. Ohne die letzten zwei ist es bestellbar, kommt aber kaum ins Regal.",
+      "items": [
+        "**ISBN und Verlagsname** – kennzeichnen Ausgabe und Verlag, Grundlage jeder Bestellung",
+        "**Vollständige Metadaten** – Titel, Autorin, Format, Preis, Klappentext, Warengruppe, Verlag",
+        "**Bezugsquelle im Großhandel** – beim Barsortiment, bei dem die Buchhandlung ohnehin bestellt",
+        "**Händlerrabatt** – nur damit verdient die Buchhandlung am Verkauf",
+        "**Remissionsrecht** – nicht verkaufte Exemplare gehen meist gegen Gutschrift zurück"
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Der entscheidende Unterschied",
+      "title": "Bestellbar heißt noch nicht im Regal",
+      "text": "Gelistet sein heißt bestellbar sein. Ob eine Buchhandlung ein Exemplar ins eigene Regal stellt, entscheidet die Buchhandlung, und zwar nur, wenn sie erwartet, es zu verkaufen.",
+      "source": "Jedes Exemplar im Regal ist Geld, das die Buchhandlung schon ausgegeben hat."
+    },
+    {
+      "type": "points",
+      "kicker": "Warum es selten klappt",
+      "title": "Warum die meisten Selfpublisher-Titel nie ins Regal kommen",
+      "items": [
+        {"h": "Kein Vertriebsapparat", "t": "Klassische Verlage bringen Vertreter, Vorschauen, Leseexemplare und Werbebudgets mit. Ein Selfpublisher-Titel kommt meist ohne all das."},
+        {"h": "Konditionen mit Risiko", "t": "Ohne Remissionsrecht oder mit knappem Rabatt ist ein Buch zwar bestellbar, aber das Risiko jedes Exemplars trägt allein die Buchhandlung."},
+        {"h": "Kein bekannter Verlag", "t": "Mit der kostenlosen KDP-ISBN steht „Unabhängig veröffentlicht“ im Eintrag. Ein bekannter Verlag beim gewohnten Großhändler macht das Ja leichter."},
+        {"h": "Kundenbestellungen zählen", "t": "Eine Kundin fragt, die Buchhandlung bestellt ein Exemplar, die Kundin holt es ab: ein echter Verkauf in einer echten Buchhandlung."}
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "Teil 1",
+      "title": "Mach dein Buch bestellbar",
+      "lead": "Diese drei Schritte entscheiden, ob eine Buchhandlung dein Buch überhaupt bestellen kann.",
+      "items": [
+        {"h": "ISBN unter einem Verlagsnamen", "t": "Die ISBN nennt immer den Verlag der Ausgabe und gehört zu ihm. Mehr dazu im Artikel [ISBN kaufen](https://shelfpublisher.com/de/blog/isbn-kaufen?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027)."},
+        {"h": "Metadaten ins VLB", "t": "Titel, Autorin, Format, Preis, Klappentext, Warengruppe und Verlag: Über die Metadaten findet und bestellt der Buchhandel Bücher."},
+        {"h": "Listung im Großhandel", "t": "Buchhandlungen bestellen über ihr bestehendes Konto. Fehlt dein Titel im Katalog, gibt es den üblichen Bestellweg nicht."}
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "Teil 2",
+      "title": "Mach dein Buch regaltauglich",
+      "lead": "Die Listung öffnet die Tür. Diese Schritte geben der Buchhandlung einen Grund hindurchzugehen.",
+      "start": 4,
+      "items": [
+        {"h": "Konditionen, die der Handel kennt", "t": "Händlerrabatt und Remissionsrecht sind die ersten Fragen jeder Einkäuferin."},
+        {"h": "Ein Grund vor Ort", "t": "Ein lokales Thema, eine Lesung, eine Signierstunde oder ein Vortrag machen aus einem Vielleicht ein paar Exemplare im Laden."},
+        {"h": "Leser fragen lassen", "t": "Jede Leserin, die in einer Buchhandlung nach deinem Buch fragt, bringt es dem Regal näher."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Die meistgefragten Ketten",
+      "title": "So kommt dein Buch zu Thalia und Hugendubel",
+      "lead": "Große Ketten bestellen wie jede andere Buchhandlung: beim Großhändler.",
+      "items": [
+        {"h": "Bestellt wird im Großhandel", "t": "Dafür braucht dein Buch eine ISBN, einen Verlag und eine Listung in den Katalogen der Großhändler."},
+        {"h": "Auch online", "t": "Onlineshops, die aus denselben Katalogen bestellen, listen das Buch ebenfalls, Amazon inklusive."},
+        {"h": "Österreich und Schweiz", "t": "Bei ShelfPublisher im Markt Deutschland bestellbar auch bei Thalia.at, Orell Füssli und Ex Libris: Händler, bei denen bestellt werden kann, keine Partner."},
+        {"h": "Das Regal entscheidet die Filiale", "t": "Ob eine Filiale das Buch zusätzlich ins Regal stellt, entscheidet die Buchhandlung."}
+      ]
+    },
+    {
+      "type": "checklist",
+      "kicker": "Unabhängige Buchhandlungen",
+      "title": "Kommission: was du vorher schriftlich klären solltest",
+      "lead": "Die Buchhandlung nimmt ein paar Exemplare, ohne vorab zu bezahlen, und zahlt nur die verkauften. Die Bedingungen sind überall anders.",
+      "items": [
+        "Wie der Erlös zwischen dir und der Buchhandlung aufgeteilt wird",
+        "Ob eine Aufnahme- oder Bearbeitungsgebühr anfällt",
+        "Wie lange die Bücher ausliegen",
+        "Wie und wann du bezahlt wirst",
+        "Was mit beschädigten oder nicht verkauften Exemplaren passiert",
+        "Klappt am besten mit lokalem Thema, Lesung oder Lesekreis"
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "Persönlich",
+      "title": "So stellst du dein Buch einer Buchhandlung vor",
+      "items": [
+        {"h": "Zur ruhigen Zeit hingehen", "t": "Frag, wer den Einkauf macht, und bring ein Exemplar mit."},
+        {"h": "Ein Infoblatt dabeihaben", "t": "ISBN, Preis, Format, Verlag, eine kurze Beschreibung und wie die Buchhandlung das Buch bestellen kann."},
+        {"h": "Erst selbst Kunde sein", "t": "Buchhändler merken, wer ihren Laden unterstützt."},
+        {"h": "Deine Konditionen kennen", "t": "Rabatt, Remissionsrecht und Bezugsquelle sind die ersten Fragen jeder Einkäuferin."},
+        {"h": "Etwas anbieten", "t": "Eine Lesung, eine Signierstunde oder ein Vortrag gibt der Buchhandlung einen Grund, Exemplare zu bestellen und zu zeigen."},
+        {"h": "Ein Nein akzeptieren", "t": "Regalfläche ist knapp, und über ihr eigenes Regal entscheidet die Buchhandlung."}
+      ]
+    },
+    {
+      "type": "points",
+      "kicker": "Was den Buchhandel anders macht",
+      "title": "Kataloge statt Sterne",
+      "items": [
+        {"h": "Bei Amazon", "t": "Ein Selfpublisher-Buch wird über seine Verkäufe gefunden, und Bewertungen entscheiden, ob Leser kaufen. Bei wenigen Rezensionen zieht eine einzige Ein-Stern-Bewertung den Schnitt nach unten."},
+        {"h": "Im Buchhandel", "t": "Die Buchhändlerin sieht Verlag, ISBN, Preis und Konditionen. Damit eine Buchhandlung dein Buch bestellen kann, brauchst du weder Rezensionen noch Werbebudget."}
+      ]
+    },
+    {
+      "type": "stats",
+      "kicker": "Mit ShelfPublisher",
+      "title": "Wo ein ShelfPublisher-Taschenbuch bestellt werden kann",
+      "items": [
+        {"value": "50.000+", "label": "Buchhandlungen können aus den Katalogen bestellen, in denen dein Buch steht"},
+        {"value": "18", "label": "Länder, über Print on Demand"},
+        {"value": "8–9 Tage", "label": "nach dem Einreichen, bis dein Buch meist im Handel zu finden ist"},
+        {"value": "1.000+", "label": "Titel im Verlag Orbita Media"}
+      ],
+      "note": "Bestellbar zum Beispiel bei Thalia, Hugendubel, genialokal, Orell Füssli, Ex Libris, Barnes & Noble, Bookshop.org, Foyles, Blackwell’s, laFeltrinelli, IBS.it, Booktopia und Amazon (jeweils per ISBN-Suche geprüft, Oktober 2026). Das sind Händler, bei denen das Buch bestellt werden kann, keine Partner von ShelfPublisher."
+    },
+    {
+      "type": "stats",
+      "kicker": "Buchhandlungen je Land",
+      "title": "Bestellbar, wo Leser danach fragen",
+      "items": [
+        {"value": "6.800+", "label": "Buchhandlungen in Deutschland"},
+        {"value": "27.000+", "label": "Buchhandlungen in den USA"},
+        {"value": "9.500+", "label": "Buchhandlungen in Großbritannien"},
+        {"value": "4.200+", "label": "Buchhandlungen in Frankreich"}
+      ],
+      "note": "Dazu Spanien (3.100+), Italien (3.000+), Kanada (1.400+) und 12 weitere Länder. Quelle: [shelfpublisher.com/de/buch-in-den-buchhandel](https://shelfpublisher.com/de/buch-in-den-buchhandel?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027)."
+    },
+    {
+      "type": "split",
+      "kicker": "Zwei Wege",
+      "title": "Nur an Leser verkaufen oder den Handel nachkaufen lassen",
+      "left": {"h": "Als Selfpublisher allein", "items": [
+        "Verkauft fast nur an Endkunden über Amazon",
+        "Buchhandlungen und Großhändler bestellen es selten",
+        "Ohne Werbung stocken die Verkäufe meist"
+      ]},
+      "right": {"h": "Mit ShelfPublisher", "items": [
+        "Erscheint im Verlag Orbita Media, mit ISBN",
+        "Gelistet in den Katalogen, aus denen der Handel bestellt",
+        "Handel bestellt, Leser kaufen, Handel kauft nach",
+        "Print on Demand: kein Lager, kein Bestandsrisiko"
+      ]}
+    },
+    {
+      "type": "checklist",
+      "kicker": "Für jedes Buch enthalten",
+      "title": "Was ShelfPublisher für jedes Taschenbuch übernimmt",
+      "items": [
+        "Eine ISBN aus dem Nummernkreis von Orbita Media, ohne Aufpreis",
+        "Meldung der Metadaten, im Markt Deutschland mit Eintrag im VLB",
+        "Die Orbita Media GmbH als Verlag im Titeldatensatz",
+        "Einrichtung bei den Vertriebskanälen",
+        "Print on Demand, von uns beauftragt und überwacht",
+        "Einzug der Erlöse, Abrechnung jedes Quartal",
+        "Dein Urheberrecht bleibt bei dir",
+        "Alle Rechte fallen bei Vertragsende an dich zurück"
+      ]
+    },
+    {
+      "type": "faq",
+      "kicker": "Fragen",
+      "title": "Buch in den Buchhandel bringen: die Antworten",
+      "items": [
+        {"q": "Kaufen Buchhandlungen Bücher direkt bei Autoren?", "a": "Meist nicht. Die meisten Bücher bestellt der Buchhandel im Barsortiment statt bei jedem Verlag einzeln. Unabhängige Buchhandlungen vor Ort nehmen selbst veröffentlichte Bücher manchmal in Kommission."},
+        {"q": "Kann ein Print-on-Demand-Buch im Buchhandel verkauft werden?", "a": "Ja. Steht es in den Großhandelskatalogen, kann jede Buchhandlung, die dort bestellt, es ordern, sobald eine Kundin danach fragt. Ob sie es zusätzlich ins Regal stellt, entscheidet die Buchhandlung."},
+        {"q": "Brauche ich einen eigenen VLB-Eintrag?", "a": "Bei ShelfPublisher nicht: Erscheint dein Buch im Markt Deutschland, steht es mit ISBN, Preis und Orbita Media als Verlag im VLB."},
+        {"q": "Wann ist mein Buch im Handel zu finden?", "a": "Bei ShelfPublisher meist etwa 8–9 Tage, nachdem du es eingereicht hast, in den allermeisten Fällen innerhalb von zwei Wochen; bei einzelnen Händlern dauert es länger."}
+      ]
+    },
+    {
+      "type": "cta",
+      "kicker": "Nächster Schritt",
+      "title": "Dein Buch gehört dorthin, wo Buchhandlungen bestellen",
+      "lead": "ShelfPublisher funktioniert nur auf Einladung. Erzähl uns von deinem Buch, unser Verlagsteam prüft jede Anfrage persönlich.",
+      "button": {"label": "Zugang zu ShelfPublisher anfragen", "url": "https://shelfpublisher.com/de/zugang-anfragen?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+      "links": [
+        {"label": "Buch in den Buchhandel bringen", "url": "https://shelfpublisher.com/de/buch-in-den-buchhandel?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "Buchvertrieb: so läuft Print on Demand", "url": "https://shelfpublisher.com/de/buchvertrieb?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "Buch selbst veröffentlichen, mit Verlag", "url": "https://shelfpublisher.com/de/buch-veroeffentlichen?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "Kostenloser Buchrücken-Rechner", "url": "https://orbita-media.github.io/book-spine-calculator/"}
+      ]
+    },
+    {
+      "type": "sources",
+      "title": "Quellen",
+      "items": [
+        {"label": "ShelfPublisher: Buch in den Buchhandel bringen", "url": "https://shelfpublisher.com/de/buch-in-den-buchhandel?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "ShelfPublisher: Buchvertrieb", "url": "https://shelfpublisher.com/de/buchvertrieb?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "ShelfPublisher: Über den Verlag (Börsenverein 2025)", "url": "https://shelfpublisher.com/de/verlag?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "ShelfPublisher: Häufige Fragen", "url": "https://shelfpublisher.com/de/faq?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "ShelfPublisher: Glossar", "url": "https://shelfpublisher.com/de/glossar?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "ShelfPublisher: ISBN kaufen", "url": "https://shelfpublisher.com/de/blog/isbn-kaufen?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "ShelfPublisher: Was ist ein Verlag?", "url": "https://shelfpublisher.com/de/blog/was-ist-ein-verlag-aufgaben?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "ShelfPublisher: How to get your book into bookstores", "url": "https://shelfpublisher.com/blog/how-to-get-your-book-into-bookstores?utm_source=github&utm_medium=deck&utm_campaign=buch-in-den-buchhandel-2027"},
+        {"label": "Wikipedia: Barsortiment", "url": "https://de.wikipedia.org/wiki/Barsortiment"},
+        {"label": "VLB: Verzeichnis Lieferbarer Bücher", "url": "https://vlb.de/"},
+        {"label": "bpb: Der Buchhandel in der Informationsgesellschaft", "url": "https://www.bpb.de/apuz/28450/der-buchhandel-in-der-informationsgesellschaft?p=2"}
+      ]
+    }
+  ]
+}
